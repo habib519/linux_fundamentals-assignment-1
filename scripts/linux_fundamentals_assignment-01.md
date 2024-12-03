@@ -4,25 +4,25 @@ In this assignment, we need to explore some fundamentals command for linux.
 
 ## File System Navigation
 1. List the contents of the home directory.
-   ![screenshot](Screenshots/home_dir.png)
+    ![screenshot](Screenshots/home_dir.png)
 2. Change the current directory to `/var/log` and list its contents.
-   ![screenshot](Screenshots/var_log.png)
+    ![screenshot](Screenshots/var_log.png)
 3. Find and display the path to the bash executable.
-   ![screenshot](Screenshots/which_bash.png)
+    ![screenshot](Screenshots/which_bash.png)
 4. Find the current shell.
-   ![screenshot](Screenshots/current_shell.png)
+    ![screenshot](Screenshots/current_shell.png)
 
 ## File and Directory Operations
 1. Create `linux_fundamentals` directory in the home directory.
-   ![screenshot](Screenshots/linux_fundamentals.png)
+    ![screenshot](Screenshots/linux_fundamentals.png)
 2. Create a subdirectory `scripts` inside `linux_fundamentals`.
-   ![screenshot](Screenshots/scripts.png)
+    ![screenshot](Screenshots/scripts.png)
 3. Create `example.txt` file inside the `linux_fundamentals` directory.
-   ![screenshot](Screenshots/example_fundamentals.png)
+    ![screenshot](Screenshots/example_fundamentals.png)
 4. Copy `example.txt` to `scripts` directory.
-  ![screenshot](Screenshots/cp_example.png)
+   ![screenshot](Screenshots/cp_example.png)
 5. Move `example.txt` from `linux_fundamentals` to `linux_fundamentals/backup.permission`
-  ![screenshot](Screenshots/backup.png)
+   ![screenshot](Screenshots/backup.png)
 ## File Modification
 1. Create a file named `example.txt` in your home directory.
     ![screenshot](Screenshots/home_example.png)
@@ -81,15 +81,15 @@ In this assignment, we need to explore some fundamentals command for linux.
 9. Delete the original file `datafile.txt` and observe the status of the hard link.
     ![screenshot](Screenshots/verify_hardlink.png)
 10. Find all .txt files in your home directory. ( use find command. Run find --help for usage)
-   ![screenshot](Screenshots/find_txt.png)
+    ![screenshot](Screenshots/find_txt.png)
 ## Package Installation
 1. Update repo cache using apt.
-   ![screenshot](Screenshots/update.png)
+    ![screenshot](Screenshots/update.png)
 2. Install the package `tree`.
-   ![screenshot](Screenshots/tree.png)
-   ![screenshot](Screenshots/tree_version.png)
+    ![screenshot](Screenshots/tree.png)
+    ![screenshot](Screenshots/tree_version.png)
 3. Install gcloud CLI tool.
-   ![screenshot](Screenshots/gcloud1.png)
-   ![screenshot](Screenshots/gcloud2.png)
-   ![screenshot](Screenshots/gcloudinit.png)
+    ![screenshot](Screenshots/gcloud1.png)
+    ![screenshot](Screenshots/gcloud2.png)
+    ![screenshot](Screenshots/gcloudinit.png)
 
