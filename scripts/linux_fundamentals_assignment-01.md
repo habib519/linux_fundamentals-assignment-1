@@ -4,7 +4,7 @@ In this assignment, we need to explore some fundamentals command for linux.
 
 ## File System Navigation
 1. List the contents of the home directory.
-   ![screenshot](Screenshots/gcloud1.png)
+   ![screenshot](Screenshots/home_dir.png)
 2. Change the current directory to `/var/log` and list its contents.
    ![screenshot](Screenshots/var_log.png)
 3. Find and display the path to the bash executable.
